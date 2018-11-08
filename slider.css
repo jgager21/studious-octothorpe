@@ -40,13 +40,13 @@
 }
 .curtain__panel--left {
   justify-content: flex-end;
-  -webkit-transform: translateX(-100%);
-          transform: translateX(-100%);
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
 }
 .curtain__panel--right {
   justify-content: flex-start;
-  -webkit-transform: translateX(100%);
-          transform: translateX(100%);
+  -webkit-transform: translateX(50%);
+          transform: translateX(50%);
 }
 .curtain__content {
   background: #333;
